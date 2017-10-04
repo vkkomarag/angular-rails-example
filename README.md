@@ -10,3 +10,4 @@ I made this as a demo for my post about the [Rails + Angular equation](http://de
 - `rake bower:install`
 - `rake db:migrate`
 - `rake db:seed`
+initial commit
